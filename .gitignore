@@ -1,0 +1,6 @@
+app-release-signed.apk
+app-release-signed.apk.idsig
+app-release-unsigned.apk
+app-release-unsigned-aligned.apk
+app-release-bundle.aab
+/build
