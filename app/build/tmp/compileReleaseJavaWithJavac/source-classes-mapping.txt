@@ -1,0 +1,8 @@
+org/eu/hexandcube/pwa/BuildConfig.java
+ org.eu.hexandcube.pwa.BuildConfig
+org/eu/hexandcube/pwa/DelegationService.java
+ org.eu.hexandcube.pwa.DelegationService
+org/eu/hexandcube/pwa/LauncherActivity.java
+ org.eu.hexandcube.pwa.LauncherActivity
+org/eu/hexandcube/pwa/Application.java
+ org.eu.hexandcube.pwa.Application
